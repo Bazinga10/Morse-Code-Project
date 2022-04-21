@@ -6,7 +6,7 @@ The aim of this project is to create an application that can translate a English
 The application contains 2 Classes MorseProject (used for our translations) and Main(used to run the application)
 
 Instructions:
-1) Go to    and copy the files
+1) Go to https://github.com/Bazinga10/Morse-Code-Project.git  and copy the files
 2) Paste the files into Eclipse or whatever application you use to run your java code.
 3) Go to class Main and run the code.
 4)Choose one of the 3 option.
