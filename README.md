@@ -2,7 +2,7 @@
 
 What is this project about?
 
-The aim of this project is to create a apllication that can translate a English phrase into Morse Code and vice versa.
+The aim of this project is to create an application that can translate a English phrase into Morse Code and vice versa.
 The application contains 2 Classes MorseProject (used for our translations) and Main(used to run the application)
 
 Instructions:
