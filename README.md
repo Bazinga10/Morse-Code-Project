@@ -7,12 +7,12 @@ The application contains 2 Classes MorseProject (used for our translations) and 
 
 Instructions:
 1) Go to https://github.com/Bazinga10/Morse-Code-Project.git  and copy the files.
-3) Click on 
-2) Paste the files into Eclipse or whatever application you use to run your java code.
-3) Go to class Main and run the code.
-4) Choose one of the 3 option.
-5) Enter either a English sentence or a Morse Code.
-6) Recevive your desired translation. 
+2) Click on Projekt Morse Code.
+3) Paste the files into Eclipse or whatever application you use to run your java code.
+4) Go to class Main and run the code.
+5) Choose one of the 3 options.
+6) Enter either a English sentence or a Morse Code.                                                
+7) Recevive your desired translation.                                  
 
 HAVE FUN! ＼(^o^)／
  
